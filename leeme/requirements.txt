@@ -1,0 +1,5 @@
+pip install socks
+pip install requests
+pip install wget
+pip install cfscrape
+pip install urllib3
